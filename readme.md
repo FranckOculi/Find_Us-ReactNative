@@ -26,7 +26,7 @@ Une application qui permet de partager sa position GPS au sein d'un groupe (What
 
 L'idée était de migrer le prototype realisé sur React vers React Native. C'est aussi ma première réalisation avec ce framework.
 
-Le projet complet comprend un partie back (accessible dans le projet full stack) et une partie front (ce projet).
+Le projet complet comprend un partie back (accessible dans le projet React) et une partie front (ce projet).
 
 L'application est un mixte entre un réseau social et un tracker GPS. Elle permet de : 
 
